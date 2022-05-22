@@ -663,3 +663,6 @@ myiter = iter(myclass)
 
 for x in myiter:
   print(x)
+
+Link:
+https://www.w3schools.com/python/ Notes made using this website
