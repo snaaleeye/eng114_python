@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c7bcb98-9034-4431-8afb-57c29ad5b220" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/task/Day 2/Conditions1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 2/loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 2/while loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 2/Python OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 2/functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boolean.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 1/Boolean.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 1/Collections.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 1/Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task/Exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 1/Exercises.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 1/Variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/Day 2/conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 2/conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/Day 2/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 2/loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +42,28 @@
       <recent name="$PROJECT_DIR$/Task/Day 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.while loops">
+  <component name="RunManager" selected="Python.functions">
+    <configuration name="Python OOP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task/Day 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Day 2/Python OOP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="conditions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,6 +77,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task/Day 2/conditions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task/Day 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Day 2/functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,6 +171,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.functions" />
+        <item itemvalue="Python.Python OOP" />
         <item itemvalue="Python.while loops" />
         <item itemvalue="Python.loops" />
         <item itemvalue="Python.conditions" />
