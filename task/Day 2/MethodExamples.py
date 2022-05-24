@@ -92,49 +92,71 @@
 # main()
 
 # Florent's code
+#
+# class Car:
+#     def __init__(self, model, top_speed, current_speed):
+#         self.model = model
+#         self.top_speed = top_speed
+#         self.current_speed = current_speed
+#
+#     def set_increase_current_speed(self):
+#         if self.current_speed > self.top_speed - 5:
+#             print("fCurrent speed - {self.current_speed}mph - cannot exceed top speed which is {self.top_speed}mph")
+#         else:
+#             self.current_speed += 5
+#
+#     def set_decrease_current_speed(self):
+#         if self.current_speed < 5:
+#             print("Speed cannot be negative")
+#         else:
+#             self.current_speed -= 5
+#
+# def mycar():
+#
+#     model = "Tesla"
+#     top_speed = 100
+#     current_speed = 20
+#
+#     mycar = Car(model, top_speed, current_speed)
+#
+#
+#     mycar.set_increase_current_speed()
+#     print("The current speed is", mycar.current_speed())
+#     mycar.set_increase_current_speed()
+#     print('The current speed is: ', mycar.current_speed())
+#     mycar.set_increase_current_speed()
+#     print('The current speed is: ', mycar.current_speed())
+#     mycar.set_increase_current_speed()
+#
+#
+#     mycar.set_decrease_current_speed()
+#     print('The current speed after brake is: ', mycar.get_speed())
+#     mycar.set_decrease_current_speed()
+#     print('The current speed after brake is: ', mycar.get_speed())
+#     mycar.set_decrease_current_speed()
+#     print('The current speed after brake is: ', mycar.get_speed())
+#     mycar.set_decrease_current_speed()
+#
+# mycar()
 
-class Car:
-    def __init__(self, model, top_speed, current_speed):
-        self.model = model
+class Car():
+    def __init__(self, top_speed):
         self.top_speed = top_speed
-        self.current_speed = current_speed
+        self._speed = 0
 
-    def set_increase_current_speed(self):
-        if self.current_speed > self.top_speed - 5:
-            print("fCurrent speed - {self.current_speed}mph - cannot exceed top speed which is {self.top_speed}mph")
-        else:
-            self.current_speed += 5
+    def accelerate(self, speed_amount):
+        self._speed += speed_amount
+        if self._speed > self.top_speed:
+            self._speed = self.top_speed
+    def brake(self, speed_amount):
+        self._speed -= speed_amount
+        if self._speed < 0:
+            self._speed = 0
+    def get_speed(self):
+        return self._speed
 
-    def set_decrease_current_speed(self):
-        if self.current_speed < 5:
-            print("Speed cannot be negative")
-        else:
-            self.current_speed -= 5
+if __name__ == '__main__':
+    toyota_aygo = Car(96)
 
-def mycar():
-
-    model = "Tesla"
-    top_speed = 100
-    current_speed = 20
-
-    mycar = Car(model, top_speed, current_speed)
-
-
-    mycar.set_increase_current_speed()
-    print("The current speed is", mycar.current_speed())
-    mycar.set_increase_current_speed()
-    print('The current speed is: ', mycar.current_speed())
-    mycar.set_increase_current_speed()
-    print('The current speed is: ', mycar.current_speed())
-    mycar.set_increase_current_speed()
-
-
-    mycar.set_decrease_current_speed()
-    print('The current speed after brake is: ', mycar.get_speed())
-    mycar.set_decrease_current_speed()
-    print('The current speed after brake is: ', mycar.get_speed())
-    mycar.set_decrease_current_speed()
-    print('The current speed after brake is: ', mycar.get_speed())
-    mycar.set_decrease_current_speed()
-
-mycar()
+    toyota_aygo.accelerate(10)
+    print(toyota_aygo._speed)
