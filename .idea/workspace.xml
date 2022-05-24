@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c7bcb98-9034-4431-8afb-57c29ad5b220" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/task/Day 3/os_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 3/py_lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 3/use.os_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 3/activity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 3/aircraft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 3/airplane.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 3/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 3/flight_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 3/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 3/passenger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 3/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 3/reptile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 3/requests_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Day 3/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/python_package/app.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/python_package/app.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/python_package/app.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/python_package/app.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/python_package/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/python_package/app/fizzbuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/python_package/program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/python_package/setup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/Day 2/MethodExamples.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 2/MethodExamples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,44 +42,27 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29URcTvfvgNQFcGT40nhvVOEvrE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;/Users/sharmakenaaleeye/eng114_python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "last_opened_file_path": "/Users/sharmakenaaleeye/eng114_python"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/task/python_package" />
       <recent name="$PROJECT_DIR$/Task/Day 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.use.os_module">
-    <configuration name="MethodExamples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task/Day 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Day 2/MethodExamples.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="formatting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.aircraft">
+    <configuration name="aircraft" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +74,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Day 3/formatting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Day 3/aircraft.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task/Day 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Day 3/animal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task/Day 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Day 3/lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="os_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +158,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Day 3/os_module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Day 3/python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="py_lib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,28 +179,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Day 3/py_lib.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="use.os_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task/Day 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Day 3/use.os_module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/Day 3/snake.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.use.os_module" />
-        <item itemvalue="Python.os_module" />
-        <item itemvalue="Python.py_lib" />
-        <item itemvalue="Python.MethodExamples" />
-        <item itemvalue="Python.formatting" />
+        <item itemvalue="Python.aircraft" />
+        <item itemvalue="Python.lambda" />
+        <item itemvalue="Python.python" />
+        <item itemvalue="Python.snake" />
+        <item itemvalue="Python.animal" />
       </list>
     </recent_temporary>
   </component>
@@ -200,5 +219,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
