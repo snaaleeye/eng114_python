@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c7bcb98-9034-4431-8afb-57c29ad5b220" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/task/Day 3/activity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 3/aircraft.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 3/airplane.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 3/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 3/flight_trip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 3/lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 3/passenger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 3/python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 3/reptile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 3/requests_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 3/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/python_package/app.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/python_package/app.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/python_package/app.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/python_package/app.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/python_package/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/python_package/app/fizzbuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/python_package/program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/python_package/setup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/Day 3/activity.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 3/activity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/Day 3/aircraft.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 3/aircraft.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/Day 3/airplane.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 3/airplane.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/Day 3/flight_trip.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 3/flight_trip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/Day 3/passenger.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 3/passenger.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

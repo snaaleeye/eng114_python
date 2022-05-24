@@ -14,26 +14,22 @@
 # EXTRA # User story - 7 - As a checkin assistant, I want to be able to export a flight_trip's passanger_list to a txt or csv file
 
 
-class Aircraft:
-    def __init__(self):
 
-
-# List all flight_trips available
-# Sell tickets or check passenger list
-class Airplane:
-    def __init__(self):
-
-
-# Origin, Destination and Date of any flight
-
-class Passenger:
-    def __init__(self):
-
-# List all passenger names and passport numbers
-# Able to register all passangers with first name Last name passport number
-
-class flight_trip:
-    def __init__(self):
-
-# Able to add specific passangers to specific flights.
+# class Airplane:
+#     def __init__(self):
+#         self.fly = True
+#
+#
+# # Origin, Destination and Date of any flight
+#
+# class Passenger:
+#     def __init__(self):
+#
+# # List all passenger names and passport numbers
+# # Able to register all passangers with first name Last name passport number
+#
+# class flight_trip:
+#     def __init__(self):
+#
+# # Able to add specific passangers to specific flights.
 
