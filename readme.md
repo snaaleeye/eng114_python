@@ -494,9 +494,14 @@ A lambda function is a small anonymous function. A lambda function can take any 
 x = lambda a : a + 10
 print(x(5))
 
+DRY - Don't Repeat Yourself.
+
 # Python Object-Oriented Programming
 
-Python is an object oriented programming language. Almost everything in Python is an object, with its properties and methods. 
+Difference between method and 
+
+Python is an object oriented programming language. Almost everything in Python is an object, with its properties and methods.
+
 
 A Class is like an object constructor, or a "blueprint" for creating objects.
 class MyClass:
