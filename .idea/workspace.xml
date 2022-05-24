@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c7bcb98-9034-4431-8afb-57c29ad5b220" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/Day 3/activity.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 3/activity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/Day 3/aircraft.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 3/aircraft.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/Day 3/airplane.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 3/airplane.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/Day 3/flight_trip.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 3/flight_trip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/Day 3/passenger.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 3/passenger.py" afterDir="false" />
-    </list>
+    <list default="true" id="6c7bcb98-9034-4431-8afb-57c29ad5b220" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
