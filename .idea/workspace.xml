@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c7bcb98-9034-4431-8afb-57c29ad5b220" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/task/Day 4/budget_app/budget_app.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 4/budget_app/budget_app.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 4/budget_app/budget_app.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 4/budget_app/budget_app.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 4/budget_app/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 4/budget_app/tests/budget_excel_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 4/budget_app/tests/budget_file_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 4/budget_app/tests/budget_items_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 4/budget_app/tests/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Day 4/budget_app/tests/test_budget_item_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/Day 4/files/order.txt" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 4/files/order.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/Day 4/files/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Day 4/files/orders.py" afterDir="false" />
-    </list>
+    <list default="true" id="6c7bcb98-9034-4431-8afb-57c29ad5b220" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
