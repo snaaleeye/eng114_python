@@ -14,22 +14,30 @@
 # EXTRA # User story - 7 - As a checkin assistant, I want to be able to export a flight_trip's passanger_list to a txt or csv file
 
 
-
-# class Airplane:
-#     def __init__(self):
-#         self.fly = True
-#
-#
 # # Origin, Destination and Date of any flight
-#
-# class Passenger:
-#     def __init__(self):
-#
 # # List all passenger names and passport numbers
-# # Able to register all passangers with first name Last name passport number
-#
-# class flight_trip:
-#     def __init__(self):
-#
-# # Able to add specific passangers to specific flights.
+# # Able to register all passengers with first name Last name passport number
+# # Able to add specific passengers to specific flights.
 
+# departures_today = ["JFK to LHR", "LHR to JFK", "LHR to CDG", "CDG to LHR", "LHR to DUB", "DUB to JFK"]
+#
+# departures_future = ["HND to LHR", "LHR to PEK","ICN to LHR", "IST to DXB","DXB to LHR", "OSL to LHR"]
+#
+# print("Press 1 to view all flights departing today")
+# print("Press 2 to view all future flight departures")
+# while True:
+#     choice = input("Please select")
+#     if choice in ('1', '2'):
+#
+#         if choice == '1':
+#             print(f"Available flights today are {departures_today}")
+#
+#         elif choice == '2':
+#             print(f"Future available flights are {departures_future}")
+#
+#         next_booking = input("Anything else? (yes/no): ")
+#         if next_booking == "no":
+#             break
+#
+#     else:
+#         print("Invalid Input")

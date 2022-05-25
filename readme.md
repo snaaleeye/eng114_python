@@ -513,6 +513,31 @@ The idea of encapsulation - self contained - hiding information - keeping it cle
 
 Abstraction - taking complex ideas keeping it surface level 
 
+An iterator is an object that contains a countable number of values. An iterato$
+
+"__init__" is a reseved method in python classes. It is known as a constructor in object oriented concepts. This method called when an object is created from the class and it allow the class to initialize the attributes of a class.
+
+Encapsulation
+Encapsulation is accomplished when each object maintains a private state, inside a class. Other objects can not access this state directly, instead, they can only invoke a list of public functions.
+
+Abstraction
+Abstraction is an extension of encapsulation. It is the process of selecting data from a larger pool to show only the relevant details to the object. Suppose you want to create a dating application and you are asked to collect all the information about your users.
+
+Inheritance
+Inheritance is the ability of one object to acquire some/all properties of another object. For example, a child inherits the traits of their parents. With inheritance, reusability is a major advantage.
+
+Polymorphism
+Polymorphism gives us a way to use a class exactly like its parent so there is no confusion with mixing types.
+
+Functions
+Functions are a block of reusable code that can preform a specific tasks without repeating.
+DRY Don't Repeat Yourself
+
+Test-Driven Development - TDD is a software development practice that focuses on coding, testing (unit testing) and refactoring.
+
+Unit testing is a software testing method by which individual units of source code are put under various tests to determine whether they are fit for use. Ascertains the quality of your code. Trains you to write code in a clean and concise way. Time consuming
+
+Convention for unittest is putting test_ or _test at the front or end. 
 
 
 A Class is like an object constructor, or a "blueprint" for creating objects.
@@ -683,3 +708,22 @@ for x in myiter:
 
 Link:
 https://www.w3schools.com/python/ Notes made using this website
+
+# Test-Driven Development 
+
+Test-Driven Development - TDD is a software development practice that focuses on coding, testing (unit testing) and refactoring.
+
+Unit testing is a software testing method by which individual units of source code are put under various tests to determine whether they are fit for use. Ascertains the quality of your code. Trains you to write code in a clean and concise way. Time consuming
+Very quick, clean and cheap. 
+
+Examples of TDD:
+- Write the smallest possible test case that matches what we need to program. 
+- Run the test and watch it fail. This gets you into thinking how to write only the code that makes it pass. 
+- Write some code with the goal of making the test pass. 
+- Run your test suite. Repeat steps 3 and 4 until all tests pass. 
+- Go back and refactor your new code, making it as simple and clear as possible while keeping the test suite green. 
+
+/var/folders/nw/pt2fsmrd0gz6dn3q7j7z7_h00000gn/T/TemporaryItems/NSIRD_screencaptureui_zbb1iT/Screenshot\ 2022-05-25\ at\ 10.35.09.png 
+
+Files 
+/Users/sharmakenaaleeye/Desktop/Screenshot\ 2022-05-25\ at\ 12.14.31.png 

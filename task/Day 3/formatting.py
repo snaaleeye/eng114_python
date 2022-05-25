@@ -52,7 +52,7 @@
 # print(f"You have {(user_input}%1.15 dollars")
 
 
-# check_flag = True : Bogdanna
+# check_flag = True
 # amount = int(input("please enter the amount of money"))
 #
 # while check_flag:
@@ -66,7 +66,7 @@
 #         break
 #     else:
 #         amount = int(input("please enter a value"))
-
+#
 # class Money:
 #     def __init__(self, money):
 #         self.money = money

@@ -1,6 +1,6 @@
-
+from passenger import Passenger
 
 class Flight_Trip:
+    super().__init__()
 
-    def __init__(self):
 
