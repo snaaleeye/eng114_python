@@ -723,12 +723,4 @@ Examples of TDD:
 - Run your test suite. Repeat steps 3 and 4 until all tests pass. 
 - Go back and refactor your new code, making it as simple and clear as possible while keeping the test suite green. 
 
-/var/folders/nw/pt2fsmrd0gz6dn3q7j7z7_h00000gn/T/TemporaryItems/NSIRD_screencaptureui_zbb1iT/Screenshot\ 2022-05-25\ at\ 10.35.09.png 
 
-Files 
-/Users/sharmakenaaleeye/Desktop/Screenshot\ 2022-05-25\ at\ 12.14.31.png 
-
-
-CSV files
-
-/Users/sharmakenaaleeye/Desktop/Screenshot\ 2022-05-26\ at\ 10.25.20.png 
